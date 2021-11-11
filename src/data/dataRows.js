@@ -1,0 +1,29 @@
+export const arrayDataRow=[
+    {
+        shape:'text',
+        row:0
+    },
+       {
+        shape:'radio',
+        row:1
+    },{
+        shape:'number',
+        row:1
+    },{
+        shape:'text',
+        row:2
+    },{
+        shape:'text',
+        row:0
+    },{
+        shape:'radio',
+        row:2
+    },{
+        shape:'text',
+        row:4
+    }
+    ,{
+        shape:'radio',
+        row:5
+    }
+]
